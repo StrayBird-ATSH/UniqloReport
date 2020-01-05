@@ -27,6 +27,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # The Concepts of Supply Chain and Specialty Store Retailer of Private Label Apparel
 
+
+
 # The Growth of Uniqlo Business of Fast Retailing Co. Ltd.
 
 # General Analysis of Uniqlo of the Supply Chain of Uniqlo
