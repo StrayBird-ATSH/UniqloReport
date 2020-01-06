@@ -19,11 +19,21 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Abstract
+# Abstract {-}
 
-# Keywords
+With the improvement of living standards, consumer demand for new clothing has become "fast fashion." Both clothing varieties and new styles require apparel companies to respond quickly to market demands. However, Chinese companies' apparel industry supply chains are facing slow problems. Since 2002, many international fast fashion brands have begun to enter the Chinese clothing market, and these fast fashion clothing brands have taken a unique marketing strategy and brought different experiences to their customers, Put our clothing brand at a disadvantage. As an excellent fast fashion clothing brand, UNIQLO Shop is the most fast fashion brand in China, has made great progress in China, achieves considerable economic benefits and relies on unique marketing strategies. In this paper, we analyze UNIQLO's rapid response strategy and build an appropriate company's marketing strategy so as not to blindly follow the marketing strategy of fast fashion brands.
+
+# Keywords {-}
+
+Supply chain management; Quick response; UNIQLO
 
 # Introduction
+
+With the economic globalization, production and design competition intensified, enterprise supply chain competition gradually shifted. Clothing industry is a traditional industry with short cycle and many characteristics of demand. In the face of supply and demand uncertainty and high inventory, clothing enterprises customer demand diversification, market response speed, market demand forecast is accurate. The rapid change of modern garment industry has shortened the order time, resulting in more and more product varieties, overstocking and other problems, which has brought great pressure to the supply chain management of China's garment industry. At the same time, economic growth and rising living standards make customer demand very diverse and personalized, increasingly complex and unpredictable. In 2014, China's 87 garment and textile enterprises had 73.2 billion inventory, 83% of which were small and medium-sized garment enterprises. The situation is serious due to overstocking and a sharp decline in orders and a shortage of sales channels. It will be very realistic to establish an efficient supply chain for customer demand, avoid risks and improve inventory.
+
+Uniqlo, a company of Fast Retailing Company, will serve as a case study to answer these questions. Fast Retailing is a specialty retailer of private label apparel (SPA). It is engaged in the design, production and sale of clothing. Uniqlo is the name of the store and the brand of clothing in the chain. Fast retailing has two advantages. Most of the "global birth" companies are high-tech industries. Fast Retail, as a clothing retailer, is a low-tech industry. By researching low-tech industries, we can contribute to the research of "global" enterprises. Fast retail is not manufactured in Japan. They are produced abroad without the advantage of domestic production. What’s more, as the main part of this research, we will dig deeper into the supply chain of Uniqlo.
+
+
 
 # The Concepts of Supply Chain and Specialty Store Retailer of Private Label Apparel
 
