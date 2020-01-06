@@ -1,5 +1,5 @@
 ---
-title: "A Comprehensive Research of the Supply Chain of Uniqlo"
+title: \vspace{3in} "A Comprehensive Research of the Supply Chain of Uniqlo"
 subtitle: "A Report for Uniqlo Scholarship Winter Program (Supply Chain Reform Direction)"
 author:
 - Chen Wang^[Undergraduate in Software Engineering, Software School of Fudan University; Software Development Engineer at Amazon Shanghai Institute of Artificial Intelligence, Amazon Web Services. (cwanam@amazon.com)]
@@ -7,7 +7,7 @@ date: "February 11th, 2020"
 output:
   pdf_document:
     keep_md: true
-    toc: true
+    toc: no
     toc_depth: 3
     number_sections: true
     keep_tex: true
@@ -19,6 +19,7 @@ fontsize: 12pt
 
 
 
+
 \newpage
 
 # Abstract {-}
@@ -26,10 +27,13 @@ fontsize: 12pt
 With the improvement of living standards, consumer demand for new clothing has become "fast fashion." Both clothing varieties and new styles require apparel companies to respond quickly to market demands. However, Chinese companies' apparel industry supply chains are facing slow problems. Since 2002, many international fast fashion brands have begun to enter the Chinese clothing market, and these fast fashion clothing brands have taken a unique marketing strategy and brought different experiences to their customers, Put our clothing brand at a disadvantage. As an excellent fast fashion clothing brand, UNIQLO Shop is the most fast fashion brand in China, has made great progress in China, achieves considerable economic benefits and relies on unique marketing strategies. In this paper, we analyze UNIQLO's rapid response strategy and build an appropriate company's marketing strategy so as not to blindly follow the marketing strategy of fast fashion brands.
 
 
-
 # Keywords {-}
 
 Supply chain management; Quick response; UNIQLO
+
+\newpage
+
+\tableofcontents
 
 \newpage
 
