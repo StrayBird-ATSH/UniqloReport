@@ -14,6 +14,7 @@ output:
   word_document: default
   html_document:
     df_print: paged
+fontsize: 12pt
 ---
 
 ```{r setup, include=FALSE}
