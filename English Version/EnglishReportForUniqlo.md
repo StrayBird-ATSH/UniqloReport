@@ -18,13 +18,20 @@ fontsize: 12pt
 ---
 
 
+
+\newpage
+
 # Abstract {-}
 
 With the improvement of living standards, consumer demand for new clothing has become "fast fashion." Both clothing varieties and new styles require apparel companies to respond quickly to market demands. However, Chinese companies' apparel industry supply chains are facing slow problems. Since 2002, many international fast fashion brands have begun to enter the Chinese clothing market, and these fast fashion clothing brands have taken a unique marketing strategy and brought different experiences to their customers, Put our clothing brand at a disadvantage. As an excellent fast fashion clothing brand, UNIQLO Shop is the most fast fashion brand in China, has made great progress in China, achieves considerable economic benefits and relies on unique marketing strategies. In this paper, we analyze UNIQLO's rapid response strategy and build an appropriate company's marketing strategy so as not to blindly follow the marketing strategy of fast fashion brands.
 
+
+
 # Keywords {-}
 
 Supply chain management; Quick response; UNIQLO
+
+\newpage
 
 # Introduction
 
