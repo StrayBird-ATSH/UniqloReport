@@ -4,6 +4,7 @@ subtitle: "A Report for Uniqlo Scholarship Winter Program (Supply Chain Reform D
 author:
 - Chen Wang^[Undergraduate in Software Engineering, Software School of Fudan University; Software Development Engineer at Amazon Shanghai Institute of Artificial Intelligence, Amazon Web Services. (wangc16@fudan.edu.cn; cwanam@amazon.com)]
 date: "February 11th, 2020"
+bibliography: bibliography.bib
 output:
   pdf_document:
     keep_md: true
@@ -13,7 +14,30 @@ output:
   html_document:
     df_print: paged
 fontsize: 12pt
+nocite: |
+  @book, @Chueshov, @fenner2012a
+  
+references:
+- id: fenner2012a
+  title: One-click science marketing
+  author:
+  - family: Fenner
+    given: Martin
+  container-title: Nature Materials
+  volume: 11
+  URL: 'http://dx.doi.org/10.1038/nmat3283'
+  DOI: 10.1038/nmat3283
+  issue: 4
+  publisher: Nature Publishing Group
+  page: 261-263
+  type: article-journal
+  issued:
+    year: 2012
+    month: 3
 ---
+
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -321,3 +345,8 @@ Supplier management is a very important link to supply chain management. Partner
 # Conclusion
 
 From the analysis above, we know that for apparel industry, the supply chain management play an important role in making the company obtain more profit. As we have analyzed Uniqlo as our analysis case, we find out that Uniqlo adopts the SPA model and the Total Chain Management system to make its supply chain run in a very high efficiency. What's more, the Quick Response concept developed by Uniqlo very well serve the reforming process of Uniqlo's supply chain, as well as its attention paid to source control, win-win model and sound operation. In conclusion, we can get some inspiration from Uniqlo's supply chain model. That is, a corporate needs to establishes its Quick Response information system for better reformation of supply chain. Also, it needs to improve the inventory management levels. Besides these, another key influencing factor is that it needs to strengthen the supplier management system. Other companies can learn from these major points to enhance the supply chain system and the Uniqlo company, as well, can improve its supply chain system from the aspects above.
+
+\pagebreak
+
+
+# Bibliography {-}
