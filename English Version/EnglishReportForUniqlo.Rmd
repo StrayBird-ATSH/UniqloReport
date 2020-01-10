@@ -15,7 +15,7 @@ output:
     df_print: paged
 fontsize: 12pt
 nocite: |
-  @book, @Chueshov, @fenner2012a
+  @innovativeInternationalisation, @innovative1, @innovative2
   
 references:
 - id: fenner2012a
@@ -34,6 +34,198 @@ references:
   issued:
     year: 2012
     month: 3
+    
+    
+- id: innovativeInternationalisation
+  title: "Innovative Internationalisation in New firms: Born Globals–the Swedish Case"
+  author:
+  - family: Andersson
+    given: Svante
+  - family: Wictor 
+    given: Ingemar
+  container-title: Journal of International Entrepreneurship
+  volume: 11
+  URL: 'https://doi.org/10.1023/A:1024110806241'
+  DOI: 10.1023/A:1024110806241
+  issue: 1
+  publisher: Kluwer Academic Publishers
+  page: 249-275
+  type: article-journal
+  issued:
+    year: 2003
+    month: 9
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+    
+- id: innovative2
+  title: Power, Value and Supply Chain Management
+  author:
+  - family: Cox
+    given: Andrew
+  container-title: Supply chain management
+  volume: 4
+  URL: 'https://doi.org/10.1108/13598549910284480'
+  DOI: 10.1108/13598549910284480
+  issue: 4
+  publisher: MCB UP Ltd
+  page: 167-175
+  type: article-journal
+  issued:
+    year: 1999
+    month: 10
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+- id: innovative1
+  title: The Internationalization of the Firm from an Entrepreneurial Perspective
+  author:
+  - family: Andersson
+    given: Svante
+  container-title: International Studies of Management & Organization
+  volume: 30
+  URL: 'https://doi.org/10.1080/00208825.2000.11656783'
+  DOI: 10.1080/00208825.2000.11656783
+  issue: 1
+  publisher: Taylor & Francis, Ltd.
+  page: 63-92
+  type: article-journal
+  issued:
+    year: 2000
+    month: 1
+
+
 ---
 
 
@@ -347,6 +539,5 @@ Supplier management is a very important link to supply chain management. Partner
 From the analysis above, we know that for apparel industry, the supply chain management play an important role in making the company obtain more profit. As we have analyzed Uniqlo as our analysis case, we find out that Uniqlo adopts the SPA model and the Total Chain Management system to make its supply chain run in a very high efficiency. What's more, the Quick Response concept developed by Uniqlo very well serve the reforming process of Uniqlo's supply chain, as well as its attention paid to source control, win-win model and sound operation. In conclusion, we can get some inspiration from Uniqlo's supply chain model. That is, a corporate needs to establishes its Quick Response information system for better reformation of supply chain. Also, it needs to improve the inventory management levels. Besides these, another key influencing factor is that it needs to strengthen the supplier management system. Other companies can learn from these major points to enhance the supply chain system and the Uniqlo company, as well, can improve its supply chain system from the aspects above.
 
 \pagebreak
-
 
 # Bibliography {-}
