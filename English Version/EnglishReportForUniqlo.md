@@ -633,7 +633,17 @@ From the analysis above, we know that for apparel industry, the supply chain man
 \pagebreak
 
 # About the author {-}
+Chen Wang is an undergraduate student in Software School of Fudan University, with an overall ranking of 4% among all the 99 students in his class. He has obtained a cumulative GPA of 3.71/4.0 and a major GPA of 3.86/4.0.
 
+During his undergraduate years at Fudan University, he has obtained a series of scholarships including Huawei Scholarship, Shanghai Scholarship (Government Scholarship) and Scholarship for Outstanding Student at Fudan University. Besides, he has actively participated in a series of competitions and got excellent results, including an Honorable Mention in Modeling Contest in Mathematics, a Successful Participant in Modeling Contest in Mathematics and a First Prize in China Undergraduate Modeling Contest in Mathematics. In addition to course work, he has been trying to get involved in social activities. He has been elected as Excellent League Cadres for two consecutive years in 2018 and 2019.
+
+In his sophomore year, he worked as a research assistant at E-commerce research center in Software School of Fudan University, with advisor Professor Weidong Zhao. Meanwhile, he applied for the Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment Project, which is the most selective and competitive projects among the four Fudan Undergraduate Research Opportunities Programs. He is now a candidate of Chun Tsung Scholar.
+
+During the summer of 2019, he worked as a Software Development Engineer at SAP Labs China. He refactored and optimized the performance of the Power Designer Web Edition service. He also contributed to some other projects as a researcher.
+
+In the fall of 2019, he went to exchange at University of California, Irvine after the selection of Fudan University. During his quarter at University of California, Irvine, he obtained a cumulative GPA of 4.0/4.0, with outstanding performance on core computer science courses like Principals of Operating System. What's more, he joined the research lab of Prof. Qi Alfred Chen from Donald Bren School of Informatics and Computer Science, University of California, Irvine. He did valuable research on Adversarial Attack Research on Autonomous Driving with Prof. Qi Alfred Chen.
+
+In the winter of 2019, he joined Amazon Web Services, Shanghai Artificial Intelligence Lab as a Software Development Engineer. He works on the Gluon NLP project during the winter of 2019.
 \pagebreak
 
 # Bibliography {-}
