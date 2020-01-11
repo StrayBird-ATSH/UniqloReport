@@ -328,6 +328,12 @@ references:
 
 
 \newpage
+# Language Assistance (Japanese, JA) {-}
+If you need assistance in reading English, you can find the Japanese version of this essay from the web address below: 
+
+https://github.com/StrayBird-ATSH/UniqloReport/blob/master/Japanese%20Version/EssayJapanese
+
+\newpage
 
 \LARGE
 
