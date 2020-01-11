@@ -14,6 +14,7 @@ output:
   html_document:
     df_print: paged
 fontsize: 12pt
+classoption: a4paper
 nocite: |
   @innovativeInternationalisation, @innovative1, @innovative2, @innovative3, @innovative4, @innovative5, @innovative6, @innovative7, @innovative8, @innovative9, @innovative10, @innovative11, @innovative12, @innovative13, @innovative14, @innovative15, @innovative16
   
@@ -496,7 +497,7 @@ In June 2000, Fast Retailing (UK), Ltd. was established as a preparatory stage f
 
 The point of our discussion is to consider the meaning of a company starting an international business without advantages. FR is analyzed from two perspectives. First, I will explain FR's relationship with international business. This includes considering whether FR is a "born" company. Next, we analyze FR's location advantages in China. We will also consider why other SPAs cannot mimic the FR model. After these discussions, we analyze the implications of businesses without advantages engaging in international business.
 
-## Is FR a "born-global" company?
+## Is Fast Retailing a "born-global" company?
 
 We borrow the concept of the definition of "global company" from Oviatt and McDougall (1994). They argued that it was essential for "global" companies to have an international origin. In other words, "global" companies need to invest resources in multiple countries. Therefore, the explanation is (Oviatt and McDougall, 1994, p. 49):
 
